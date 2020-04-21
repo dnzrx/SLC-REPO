@@ -1,0 +1,52 @@
+[
+	{
+		"id": 1,
+		"name": "Couleur",
+		"price_per_night": 400000,
+		"phone_number": "(021) 54399936",
+		"image": "https://lh5.googleusercontent.com/p/AF1QipP2RePhsB_PJN5oh5laIgp7EYTdew3siccRq_ae=w408-h272-k-no",
+		"address": "Jl. Lkr. Luar Barat No.1A, RT.10/RW.7, Duri Kosambi, Kecamatan Cengkareng, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11750",
+		"LAT": -6.1626827,
+		"LNG": 106.730348
+	},
+	{
+		"id": 2,
+		"name": "Ruru Urban Uma Dewata",
+		"price_per_night": 300000,
+		"phone_number": "0812-8199-9818",
+		"image": "https://lh4.googleusercontent.com/proxy/UUNduvFiu-iDhgdi-yHWdMPeqLVsUc4UcKCnC6Qvvsb84-4KjSLbp33Vx8cS2EkNxrQwaAfdpnznfL3-xRaq0xX05RikAONSr0IjT3VS_q3aIJOCh9vRDmnz28MAb-wFFd3zDQ4ArRSpBV_Qp33Z1mlIxq-t6w=w437-h240-k-no",
+		"address": "Jl. Kembangan Abadi III No.14, RT.2/RW.8, Kembangan Sel., Kec. Kembangan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11610",
+		"LAT": -6.1707535,
+		"LNG": 106.7297894
+	},
+	{
+		"id": 3,
+		"name": "Veranda Residence",
+		"price_per_night": 600000,
+		"phone_number": "(021) 5816161",
+		"image": "https://lh5.googleusercontent.com/p/AF1QipPiXPa0DyBZdyAFskHGIoPJI7v8-I8dsuKkcTWw=w427-h240-k-no",
+		"address": "Jl. Pesanggrahan No.28, RT.2/RW.7, Kembangan Sel., Kec. Kembangan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11610",
+		"LAT": -6.1742126,
+		"LNG": 106.7324344
+	},
+	{
+		"id": 4,
+		"name": "Jabu Srengseng",
+		"price_per_night": 350000,
+		"phone_number": "0813-8155-3155",
+		"image": "https://lh5.googleusercontent.com/p/AF1QipNB3VjHwzM-gSGDN1CecgfWHlpeIIRGv_EY-4KP=w408-h306-k-no",
+		"address": "Srengseng Dalam No.18, RT.4/RW.5, Srengseng, Kec. Kembangan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11630",
+		"LAT": -6.1992306,
+		"LNG": 106.7495304
+	},
+	{
+		"id": 5,
+		"name": "Hotel 88 Grogol",
+		"price_per_night": 340000,
+		"phone_number": "(021) 29336688",
+		"image": "https://lh5.googleusercontent.com/p/AF1QipMlanJHyyRyD2yXXxrrBOYWwqWi6EfdvrloN75-=w408-h612-k-no",
+		"address": "Jl. Dr. Susilo Raya, RT.4/RW.5, Grogol, Kec. Grogol petamburan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11450",
+		"LAT": -6.1657546,
+		"LNG": 106.7849419
+	}
+]

@@ -1,0 +1,52 @@
+[
+	{
+		"id": 1,
+		"name": "Zea Livin",
+		"price": 3200000,
+		"facilities": "K. Mandi Dalam, AC, WiFi",
+		"image": "https://www.kostjakarta.net/wp-content/uploads/2020/02/Venus-1-scaled.jpg",
+		"address": "Jl. Patra Komala No.40, RT.2/RW.1, Palmerah, Kec. Palmerah, Jakarta Barat",
+		"LAT": -6.180643,
+		"LNG": 106.798140
+	},
+	{
+		"id": 2,
+		"name": "Kos Kemanggisan KM 20",
+		"price": 1800000,
+		"facilities": "AC, WiFi, Pantry, Kamar Mandi Dalam, Pemanas Air",
+		"image": "https://www.kostjakarta.net/wp-content/uploads/2020/01/kamar-landscape.jpg",
+		"address": "Kemanggisan Utama Raya no 20",
+		"LAT": -6.188657,
+		"LNG": 106.789132
+	},
+	{
+		"id": 3,
+		"name": "Kos Aye Mangga Dua",
+		"price": 1700000,
+		"facilities": "AC, WiFi, Pantry, Kamar Mandi Dalam",
+		"image": "https://www.kostjakarta.net/wp-content/uploads/2019/04/102875.jpg",
+		"address": "Jl. Pangeran Jayakarta 57A/7B",
+		"LAT": -6.1412132,
+		"LNG": 106.8235635
+	},
+	{
+		"id": 4,
+		"name": "Kos Daan Mogot",
+		"price": 3200000,
+		"facilities": "K. Mandi Dalam, AC, WiFi",
+		"image": "https://www.kostjakarta.net/wp-content/uploads/2018/08/854978.jpg",
+		"address": "Jl. Daan Mogot Baru Komplek Kintamani",
+		"LAT": -6.1481399,
+		"LNG": 106.7099006
+	},
+	{
+		"id": 5,
+		"name": "Kos Kohaku Kosambi",
+		"price": 2250000,
+		"facilities": "AC, WiFi, TV, Kulkas, Kamar Mandi Dalam, Pemanas Air",
+		"image": "https://www.kostjakarta.net/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-28-at-16.51.33-1.jpeg",
+		"address": "Jl. Duri kosambi RT.14 RW.02 Jakarta Barat 11750",
+		"LAT": -6.1752102,
+		"LNG": 106.7195961
+	}
+]
